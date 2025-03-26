@@ -1,10 +1,14 @@
 # Family Tree Knowledge Task
 
 ## MeTTa Family Tree & List Operations
-This project demonstrates knowledge representation in MeTTa (a logic-based programming language) with:
 
-A family tree representation and queries (# find-children, # find-grandchildren).
+This project highlights knowledge representation in MeTTa, a logic-based programming language. It features:
 
-List operations (# is-member, # removeDuplicates, # extracter).
-
-
+- **Family Tree Representation & Queries**
+  - `# find-children`
+  - `# find-grandchildren`
+  
+- **List Operations**
+  - `# is-member`
+  - `# removeDuplicates`
+  - `# extracter`
